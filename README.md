@@ -12,3 +12,6 @@ First you need to download & install the Python IDLE's, here's the link "https:/
 5.Then open the file via python IDLE or any IDE that supports python language.
 
 6.Run the py file to launch the program.
+
+
+as part of my python automation 
