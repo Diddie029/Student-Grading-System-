@@ -15,6 +15,3 @@ First you need to download & install the ```Python IDLE's```
 
 
 as part of my python automation 
-
-ww
-
