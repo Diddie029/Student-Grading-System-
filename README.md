@@ -3,7 +3,7 @@ First you need to download & install the ```Python IDLE's```
 
 1.Download the source code in this site.
 
-2.Locate and Extract the zip file.
+2.Locate frm your pc and Extract the zip file.
 
 3.Open the extracted folder
 
